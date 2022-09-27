@@ -76,19 +76,19 @@
     "url": "https://danbs.net",
     "icon": "https://favicons.githubusercontent.com/danbs.net",
     "slug": "danbs",
-    "status": "down",
-    "uptime": "59.96%",
-    "uptimeDay": "59.96%",
-    "uptimeWeek": "59.96%",
-    "uptimeMonth": "59.96%",
-    "uptimeYear": "59.96%",
-    "time": 356,
-    "timeDay": 356,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "55.99%",
+    "uptimeDay": "55.99%",
+    "uptimeWeek": "55.99%",
+    "uptimeMonth": "55.99%",
+    "uptimeYear": "55.99%",
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-09-27": 429
+      "2022-09-27": 505
     }
   }
 ]
