@@ -1,5 +1,5 @@
 # Change these first
-owner: ddanbs # Your GitHub organization or username, where this repository lives
+owner: ddanbs # Your GitHub organization or username, where this repository lives             
 repo: upptime # The name of this repository
 
 sites:
@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Danbs
+    url: https://danbs.net
 
 assignees:
 - ddanbs
