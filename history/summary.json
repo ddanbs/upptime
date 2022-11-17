@@ -76,12 +76,12 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "93.32%",
-    "uptimeDay": "51.67%",
-    "uptimeWeek": "50.65%",
-    "uptimeMonth": "88.64%",
-    "uptimeYear": "93.32%",
+    "status": "down",
+    "uptime": "93.38%",
+    "uptimeDay": "52.60%",
+    "uptimeWeek": "51.10%",
+    "uptimeMonth": "88.75%",
+    "uptimeYear": "93.38%",
     "time": 232,
     "timeDay": 216,
     "timeWeek": 215,
@@ -94,7 +94,7 @@
       "2022-11-14": 709,
       "2022-11-13": 862,
       "2022-11-12": 733,
-      "2022-11-11": 621
+      "2022-11-11": 575
     }
   }
 ]
