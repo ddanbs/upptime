@@ -13,7 +13,7 @@
     "time": 123,
     "timeDay": 320,
     "timeWeek": 159,
-    "timeMonth": 121,
+    "timeMonth": 113,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 206,
     "timeDay": 117,
     "timeWeek": 243,
-    "timeMonth": 225,
+    "timeMonth": 228,
     "timeYear": 206,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 309,
     "timeDay": 244,
     "timeWeek": 250,
-    "timeMonth": 317,
+    "timeMonth": 316,
     "timeYear": 309,
     "dailyMinutesDown": {}
   },
@@ -76,12 +76,12 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "96.38%",
+    "status": "down",
+    "uptime": "96.53%",
     "uptimeDay": "59.28%",
-    "uptimeWeek": "62.38%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "96.38%",
+    "uptimeWeek": "63.88%",
+    "uptimeMonth": "91.69%",
+    "uptimeYear": "96.53%",
     "time": 226,
     "timeDay": 262,
     "timeWeek": 229,
@@ -94,8 +94,7 @@
       "2022-12-05": 476,
       "2022-12-04": 437,
       "2022-12-03": 503,
-      "2022-12-02": 679,
-      "2022-12-01": 2
+      "2022-12-02": 529
     }
   }
 ]
