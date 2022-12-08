@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
     "timeDay": 176,
     "timeWeek": 258,
     "timeMonth": 316,
     "timeYear": 308,
-    "dailyMinutesDown": {
-      "2022-12-08": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -78,14 +76,14 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "96.35%",
-    "uptimeDay": "60.20%",
-    "uptimeWeek": "62.17%",
-    "uptimeMonth": "91.30%",
-    "uptimeYear": "96.35%",
+    "status": "down",
+    "uptime": "96.38%",
+    "uptimeDay": "60.19%",
+    "uptimeWeek": "62.54%",
+    "uptimeMonth": "91.38%",
+    "uptimeYear": "96.38%",
     "time": 226,
-    "timeDay": 301,
+    "timeDay": 302,
     "timeWeek": 230,
     "timeMonth": 218,
     "timeYear": 226,
@@ -97,7 +95,7 @@
       "2022-12-04": 437,
       "2022-12-03": 503,
       "2022-12-02": 679,
-      "2022-12-01": 225
+      "2022-12-01": 188
     }
   }
 ]
