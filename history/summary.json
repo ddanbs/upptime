@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 0,
-    "timeWeek": 165,
+    "time": 121,
+    "timeDay": 72,
+    "timeWeek": 163,
     "timeMonth": 105,
-    "timeYear": 122,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 0,
-    "timeWeek": 170,
+    "time": 209,
+    "timeDay": 312,
+    "timeWeek": 191,
     "timeMonth": 236,
-    "timeYear": 207,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 0,
-    "timeWeek": 256,
+    "time": 312,
+    "timeDay": 462,
+    "timeWeek": 295,
     "timeMonth": 318,
-    "timeYear": 310,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -76,14 +76,14 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "96.84%",
-    "uptimeDay": "63.21%",
-    "uptimeWeek": "65.31%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "96.84%",
+    "status": "down",
+    "uptime": "96.89%",
+    "uptimeDay": "63.27%",
+    "uptimeWeek": "65.87%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "96.89%",
     "time": 230,
-    "timeDay": 241,
+    "timeDay": 239,
     "timeWeek": 258,
     "timeMonth": 226,
     "timeYear": 230,
@@ -94,7 +94,7 @@
       "2022-12-09": 460,
       "2022-12-08": 614,
       "2022-12-07": 512,
-      "2022-12-06": 151
+      "2022-12-06": 95
     }
   }
 ]
