@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 79,
-    "timeWeek": 121,
+    "timeWeek": 129,
     "timeMonth": 97,
     "timeYear": 113,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 96,
-    "timeWeek": 176,
+    "timeWeek": 174,
     "timeMonth": 201,
     "timeYear": 206,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 294,
-    "timeWeek": 229,
+    "timeWeek": 207,
     "timeMonth": 266,
     "timeYear": 303,
     "dailyMinutesDown": {}
@@ -76,12 +76,12 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "97.98%",
+    "status": "down",
+    "uptime": "98.08%",
     "uptimeDay": "62.53%",
-    "uptimeWeek": "61.67%",
-    "uptimeMonth": "91.18%",
-    "uptimeYear": "97.98%",
+    "uptimeWeek": "63.52%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "98.08%",
     "time": 217,
     "timeDay": 186,
     "timeWeek": 219,
@@ -93,8 +93,7 @@
       "2023-02-04": 588,
       "2023-02-03": 690,
       "2023-02-02": 764,
-      "2023-02-01": 612,
-      "2023-01-31": 21
+      "2023-02-01": 447
     }
   }
 ]
