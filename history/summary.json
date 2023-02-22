@@ -22,19 +22,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 201,
-    "timeWeek": 304,
-    "timeMonth": 221,
-    "timeYear": 209,
+    "time": 208,
+    "timeDay": 187,
+    "timeWeek": 288,
+    "timeMonth": 219,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-02-22": 0
+      "2023-02-22": 8
     }
   },
   {
@@ -80,7 +80,7 @@
     "slug": "danbs",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "54.53%",
+    "uptimeDay": "55.11%",
     "uptimeWeek": "61.55%",
     "uptimeMonth": "91.15%",
     "uptimeYear": "98.18%",
