@@ -42,7 +42,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.75%",
+    "uptimeDay": "93.37%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
@@ -80,12 +80,12 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "59.00%",
-    "uptimeWeek": "64.20%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "98.63%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "58.98%",
+    "uptimeWeek": "64.41%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "98.64%",
     "time": 210,
     "timeDay": 182,
     "timeWeek": 215,
@@ -98,7 +98,7 @@
       "2023-03-25": 694,
       "2023-03-24": 570,
       "2023-03-23": 499,
-      "2023-03-22": 42
+      "2023-03-22": 22
     }
   }
 ]
