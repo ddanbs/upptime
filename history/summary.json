@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 78,
-    "timeWeek": 83,
-    "timeMonth": 85,
+    "timeDay": 119,
+    "timeWeek": 89,
+    "timeMonth": 87,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 161,
-    "timeWeek": 234,
-    "timeMonth": 207,
+    "timeDay": 267,
+    "timeWeek": 251,
+    "timeMonth": 210,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 302,
-    "timeDay": 274,
-    "timeWeek": 337,
-    "timeMonth": 307,
+    "timeDay": 313,
+    "timeWeek": 370,
+    "timeMonth": 305,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2023-04-03": 15,
@@ -83,22 +83,22 @@
     "slug": "danbs",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "64.82%",
-    "uptimeWeek": "64.79%",
-    "uptimeMonth": "91.90%",
+    "uptimeDay": "65.26%",
+    "uptimeWeek": "64.88%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "98.88%",
     "time": 217,
-    "timeDay": 504,
+    "timeDay": 501,
     "timeWeek": 454,
     "timeMonth": 256,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-05-04": 477,
+      "2023-05-04": 485,
       "2023-05-03": 494,
       "2023-05-02": 743,
       "2023-05-01": 744,
       "2023-04-30": 544,
-      "2023-04-29": 548
+      "2023-04-29": 532
     }
   }
 ]
