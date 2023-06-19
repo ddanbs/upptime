@@ -42,9 +42,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 304,
     "timeDay": 219,
@@ -52,7 +52,6 @@
     "timeMonth": 299,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-06-19": 7,
       "2023-04-03": 15,
       "2023-03-28": 61,
       "2023-03-27": 44,
@@ -82,12 +81,12 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "65.60%",
-    "uptimeWeek": "66.11%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "66.68%",
+    "uptimeWeek": "66.61%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "99.12%",
     "time": 260,
     "timeDay": 294,
     "timeWeek": 347,
@@ -101,7 +100,7 @@
       "2023-06-15": 621,
       "2023-06-14": 495,
       "2023-06-13": 532,
-      "2023-06-12": 143
+      "2023-06-12": 92
     }
   }
 ]
