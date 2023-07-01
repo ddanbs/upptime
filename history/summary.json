@@ -31,7 +31,7 @@
     "time": 229,
     "timeDay": 28,
     "timeWeek": 214,
-    "timeMonth": 186,
+    "timeMonth": 184,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 305,
     "timeDay": 134,
     "timeWeek": 330,
-    "timeMonth": 296,
+    "timeMonth": 295,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2023-04-03": 15,
@@ -82,23 +82,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "68.91%",
-    "uptimeWeek": "66.53%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.14%",
+    "uptimeDay": "73.00%",
+    "uptimeWeek": "65.81%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.14%",
     "time": 262,
-    "timeDay": 178,
-    "timeWeek": 295,
-    "timeMonth": 306,
+    "timeDay": 177,
+    "timeWeek": 296,
+    "timeMonth": 294,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-06-30": 445,
+      "2023-06-30": 438,
       "2023-06-29": 806,
       "2023-06-28": 649,
       "2023-06-27": 445,
       "2023-06-26": 503,
-      "2023-06-25": 526
+      "2023-06-25": 595,
+      "2023-06-24": 10
     }
   }
 ]
