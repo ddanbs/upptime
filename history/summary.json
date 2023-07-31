@@ -31,7 +31,7 @@
     "time": 228,
     "timeDay": 204,
     "timeWeek": 186,
-    "timeMonth": 214,
+    "timeMonth": 208,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 304,
     "timeDay": 428,
     "timeWeek": 321,
-    "timeMonth": 293,
+    "timeMonth": 289,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-04-03": 15,
@@ -83,23 +83,24 @@
     "slug": "danbs",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "65.02%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "73.23%",
+    "uptimeWeek": "65.09%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "99.20%",
     "time": 308,
     "timeDay": 998,
-    "timeWeek": 956,
-    "timeMonth": 699,
+    "timeWeek": 957,
+    "timeMonth": 680,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-07-30": 391,
+      "2023-07-30": 384,
       "2023-07-29": 415,
       "2023-07-28": 422,
       "2023-07-27": 526,
       "2023-07-26": 436,
       "2023-07-25": 695,
-      "2023-07-24": 639
+      "2023-07-24": 639,
+      "2023-07-23": 20
     }
   }
 ]
