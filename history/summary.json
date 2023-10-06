@@ -6,7 +6,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 75,
     "timeMonth": 123,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -81,19 +83,19 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "67.60%",
-    "uptimeWeek": "68.07%",
-    "uptimeMonth": "92.65%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "68.61%",
+    "uptimeWeek": "68.20%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 452,
-    "timeDay": 713,
+    "timeDay": 753,
     "timeWeek": 549,
     "timeMonth": 1075,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-10-06": 290,
+      "2023-10-06": 276,
       "2023-10-05": 595,
       "2023-10-04": 533,
       "2023-10-03": 437,
