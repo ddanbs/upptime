@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 159,
     "timeWeek": 162,
     "timeMonth": 207,
     "timeYear": 232,
-    "dailyMinutesDown": {
-      "2023-11-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -84,16 +82,16 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "61.01%",
-    "uptimeWeek": "69.02%",
-    "uptimeMonth": "92.68%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "61.11%",
+    "uptimeWeek": "69.08%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.40%",
     "time": 480,
-    "timeDay": 850,
-    "timeWeek": 632,
-    "timeMonth": 647,
+    "timeDay": 892,
+    "timeWeek": 638,
+    "timeMonth": 648,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2023-11-07": 236,
@@ -103,7 +101,7 @@
       "2023-11-03": 389,
       "2023-11-02": 432,
       "2023-11-01": 537,
-      "2023-10-31": 319
+      "2023-10-31": 287
     }
   }
 ]
