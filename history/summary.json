@@ -40,9 +40,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "85.84%",
+    "uptimeDay": "85.83%",
     "uptimeWeek": "97.98%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.93%",
@@ -85,17 +85,17 @@
     "slug": "danbs",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "66.43%",
-    "uptimeWeek": "68.16%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "67.35%",
+    "uptimeWeek": "68.32%",
+    "uptimeMonth": "92.14%",
+    "uptimeYear": "99.34%",
     "time": 552,
-    "timeDay": 919,
+    "timeDay": 929,
     "timeWeek": 1082,
     "timeMonth": 1011,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2023-12-12": 296,
+      "2023-12-12": 287,
       "2023-12-11": 463,
       "2023-12-10": 441,
       "2023-12-09": 304,
@@ -103,7 +103,7 @@
       "2023-12-07": 643,
       "2023-12-06": 473,
       "2023-12-05": 402,
-      "2023-12-04": 36
+      "2023-12-04": 70
     }
   }
 ]
