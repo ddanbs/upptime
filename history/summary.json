@@ -42,9 +42,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.89%",
     "time": 364,
     "timeDay": 254,
@@ -52,7 +52,6 @@
     "timeMonth": 318,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-01-24": 13,
       "2024-01-10": 112,
       "2023-12-18": 17,
       "2023-12-15": 48,
@@ -87,15 +86,15 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "64.19%",
-    "uptimeWeek": "66.32%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "64.16%",
+    "uptimeWeek": "66.59%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "99.36%",
     "time": 621,
-    "timeDay": 466,
-    "timeWeek": 785,
+    "timeDay": 470,
+    "timeWeek": 775,
     "timeMonth": 880,
     "timeYear": 623,
     "dailyMinutesDown": {
@@ -106,7 +105,7 @@
       "2024-01-20": 499,
       "2024-01-19": 402,
       "2024-01-18": 739,
-      "2024-01-17": 56
+      "2024-01-17": 28
     }
   }
 ]
