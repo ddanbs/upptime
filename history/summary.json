@@ -86,16 +86,16 @@
     "url": "https://danbs.net",
     "icon": "https://icons.duckduckgo.com/ip3/danbs.net.ico",
     "slug": "danbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "69.91%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "65.52%",
+    "uptimeWeek": "70.10%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "99.43%",
     "time": 699,
-    "timeDay": 1283,
-    "timeWeek": 1301,
-    "timeMonth": 1243,
+    "timeDay": 1316,
+    "timeWeek": 1304,
+    "timeMonth": 1245,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2024-02-18": 496,
@@ -104,7 +104,7 @@
       "2024-02-15": 469,
       "2024-02-14": 511,
       "2024-02-13": 491,
-      "2024-02-12": 130
+      "2024-02-12": 111
     }
   }
 ]
