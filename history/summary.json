@@ -88,23 +88,23 @@
     "slug": "danbs",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "69.54%",
-    "uptimeWeek": "70.83%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "70.01%",
+    "uptimeWeek": "70.70%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.44%",
     "time": 713,
     "timeDay": 1123,
-    "timeWeek": 1110,
+    "timeWeek": 1112,
     "timeMonth": 1291,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-02-24": 438,
+      "2024-02-24": 431,
       "2024-02-23": 475,
       "2024-02-22": 512,
       "2024-02-21": 448,
       "2024-02-20": 416,
       "2024-02-19": 503,
-      "2024-02-18": 149
+      "2024-02-18": 169
     }
   }
 ]
